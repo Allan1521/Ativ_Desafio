@@ -14,6 +14,7 @@ body{
 
 /* Estilo p/o contêiner principal */
 .container{
+    margin-right: 65%;
     background: rgb(213, 171, 247); /* Define o fundo do contêiner como branco */
     padding: 20px; /* Adiciona um preechimento de 20px ao redor do conteúdo do contêiner */
     border-radius: 10px; /* define bordas arredondadas com raio de 10px */
